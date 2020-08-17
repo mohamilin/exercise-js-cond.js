@@ -1,0 +1,2 @@
+# exercise-js-cond.js
+TUGAS HARI KE TIGA : JAVASCRIPT CONDITION 
