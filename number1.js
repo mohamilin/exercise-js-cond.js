@@ -10,7 +10,7 @@ Buat conditional IF .. ELSE IF yang menggambarkan divisi dan tugas divisi pada S
 
 let division = "marketing";
 
-if(jobdesk == "HR" ) {
+if(division == "HR" ) {
     console.log("Rekrutmen untuk calon pegawai baru");
 } else if(division == "marketing") {
     console.log("Memasarkan Produk");
